@@ -3,7 +3,10 @@
 The workshop materials will be in python using a package called PyMC3. The workshop aims to build intuition for how Bayesian models work and then set out some practical examples of how Bayesian methods are used to a) fit distributions to data b) infer the correlation parameter and c) perform linear regression.
 
 ## Installation instructions
-The rest of this README sets out installation instructions for the workshop materials.
+The rest of this README sets out installation instructions for the workshop materials.  I recommend that you install the software on your local machine so that you will be able to work on your own projects in the future.  However, if you just want a quick taster, you can run the notebooks in the cloud by clicking on the following link:
+
+[![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/braaannigan/bayesian_intro/master)
+
 
 You can install the software needed using the Anaconda python distribution. If you already have Anaconda installed then you can skip to the Virtual Environment section below.
 

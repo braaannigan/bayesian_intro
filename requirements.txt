@@ -1,0 +1,11 @@
+matplotlib
+numpy
+xarray
+pandas
+scipy
+pymc3
+theano
+holoviews
+bokeh
+seaborn
+scikit-learn
